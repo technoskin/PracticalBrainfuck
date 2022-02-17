@@ -7,3 +7,5 @@
 - Under the main label you can write BF, and then also use function_name= to call a function
 - CHECK example.pf FOR MORE DETAIL
 
+# Run a program
+- node interpreter <filename.pf>
